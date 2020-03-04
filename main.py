@@ -15,7 +15,7 @@ if response.status_code == 200:
     response = requests.get(url_api)
     if response.status_code == 200:
         print(response.text)
-
+htttttt
         import json
 
         Hasil: [{"id":1,"suhu:10.0"}]
